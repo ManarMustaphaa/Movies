@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="pref_sort_Most_popular">popular</string>
+    <string name="pref_sort_Top_rated">top_rated</string>
+    <string name="pref_units_label_Mostpopular">Most Popular</string>
+    <string name="pref_units_label_Toprated">Top rated</string>
+</resources>
